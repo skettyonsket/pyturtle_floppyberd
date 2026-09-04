@@ -6,7 +6,7 @@ import random
 while True:
     upd = 0
     piperate = 75 #out of every update, theres 1/x chance a pipe spawns
-    pipespeed = 10
+    pipespeed = 10 #speed the pipes move
     ups = 45 #UPDATES PER SECOND
 
     pls = [(600, 40, 150)] #pipe list
